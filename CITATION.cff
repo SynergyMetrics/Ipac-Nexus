@@ -2,21 +2,24 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
   - name: "SynergyMetrics Initiative"
-title: "An Open Framework for Aggregating Human Distress Indicators"
+title: "The Ipac-Nexus Framework: An Architecture for Real-Time Global Coordination and Human Well-Being"
 version: v0.1
 doi: 10.5281/zenodo.16572750
-repository-code: https://github.com/SynergyMetrics/CDS
+repository-code: https://github.com/SynergyMetrics/Ipac-Nexus
 date-released: 2025-07-20
-license: CC-BY-NC-4.0
+license: Nexus Public License v1.0 (NPL-1.0)
 abstract: |
-  This repository contains a non-commercial, open-source prototype of an open framework for aggregating human distress indicators, producing the Composite Distress Score (CDS)—a single composite score unifying existing indicators (e.g., hunger, inequality, conflict, governance) for crisis tracking and early warning. The CDS uses established composite index methods in a transparent, flexible, and action-oriented way, without introducing new mathematical operations. This prototype is offered to researchers, humanitarian organizations, and developers as a basis for further exploration.
+  The Ipac-Nexus Framework is an early-stage, non-commercial architecture for real-time coordination of human well-being, designed to replace profit-based optimization with transparent, impact-driven resource allocation. This release serves as a conceptual blueprint and conversation starter, inviting critique, improvement, and interdisciplinary collaboration.
 keywords:
-  - Composite Distress Score
-  - CDS
-  - crisis tracking
-  - human distress
-  - open-source
-  - humanitarian
-  - composite index
+  - Ipac-Nexus
+  - IPACT Points
+  - Transparent Blockchain
+  - Dynamic Penalties
+  - Anti-Greed, Anti-Corruption
+  - Empathy-Driven
+  - Open Data
+  - Collective Good
+  - No Lifestyle Disruption
+  - Resource Allocation
 notes: |
   The authorship and rights for this project are currently held by Synergy Initiative but may be transferred or updated to include individual author names in the future.
